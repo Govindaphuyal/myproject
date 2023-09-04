@@ -1,4 +1,4 @@
 # myproject
 this is my first project
 <br>
-my name
+my name :project
